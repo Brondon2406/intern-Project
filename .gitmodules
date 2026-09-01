@@ -1,3 +1,6 @@
 [submodule "ZaoProcessPlugin"]
 	path = ZaoProcessPlugin
 	url = https://github.com/Brondon2406/ZaoProcessPlugin.git
+[submodule "OpenProjectPlugin"]
+	path = OpenProjectPlugin
+	url = https://github.com/Brondon2406/OpenProjectPlugin.git
