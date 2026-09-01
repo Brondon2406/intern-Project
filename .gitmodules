@@ -1,0 +1,3 @@
+[submodule "ZaoProcessPlugin"]
+	path = ZaoProcessPlugin
+	url = https://github.com/Brondon2406/ZaoProcessPlugin.git
