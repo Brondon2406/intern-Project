@@ -4,3 +4,6 @@
 [submodule "OpenProjectPlugin"]
 	path = OpenProjectPlugin
 	url = https://github.com/Brondon2406/OpenProjectPlugin.git
+[submodule "ZaoKpiPlugin"]
+	path = ZaoKpiPlugin
+	url = https://github.com/Brondon2406/ZaoKpiPlugin.git
