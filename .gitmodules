@@ -7,3 +7,6 @@
 [submodule "ZaoKpiPlugin"]
 	path = ZaoKpiPlugin
 	url = https://github.com/Brondon2406/ZaoKpiPlugin.git
+[submodule "DisciTrackPlugin"]
+	path = DisciTrackPlugin
+	url = https://github.com/Brondon2406/DisciTrackPlugin.git
