@@ -13,3 +13,6 @@
 [submodule "ZaoMaterialPlugin"]
 	path = ZaoMaterialPlugin
 	url = https://github.com/Brondon2406/ZaoMaterialPlugin.git
+[submodule "ZaoMeetReserve"]
+	path = ZaoMeetReserve
+	url = https://github.com/Brondon2406/ZaoMeetReserve.git
