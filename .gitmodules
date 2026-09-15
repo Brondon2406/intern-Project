@@ -16,3 +16,6 @@
 [submodule "ZaoMeetReserve"]
 	path = ZaoMeetReserve
 	url = https://github.com/Brondon2406/ZaoMeetReserve.git
+[submodule "ZaoMeetReservePlugin"]
+	path = ZaoMeetReservePlugin
+	url = https://github.com/Brondon2406/ZaoMeetReservePlugin.git
