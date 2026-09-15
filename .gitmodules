@@ -10,3 +10,6 @@
 [submodule "DisciTrackPlugin"]
 	path = DisciTrackPlugin
 	url = https://github.com/Brondon2406/DisciTrackPlugin.git
+[submodule "ZaoMaterialPlugin"]
+	path = ZaoMaterialPlugin
+	url = https://github.com/Brondon2406/ZaoMaterialPlugin.git
